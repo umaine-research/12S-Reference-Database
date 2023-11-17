@@ -4,7 +4,7 @@ Collection of 12s sequences from NCBI nucleotide database for use in Qiime2 taxo
 
 Expanded upon dwthomas reference database (https://github.com/dwthomas/NCBI-denovo-reference-database/releases/tag/2021.9), to include additional Maine mammals and organize by taxonomic rank consistent with GBIF (Global Biodiversity Information Facility)
 
-See complete list of included species in CORE_eDNA_refdb_11_2023_unique_species.tsv
+See complete list of included taxa in all_species_CORE_eDNA_refdb_11_2023.tsv
 
 <ul>
   <li>16630 Total Species</li>
